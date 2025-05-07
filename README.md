@@ -46,7 +46,14 @@ This project builds upon the excellent work of the [3D-Speaker](https://github.c
 ## Citations
 If you are using MGFF-TDNN model in your research, please cite: 
 ```BibTeX
-
-
+@misc{li2025mgfftdnn,
+      title={MGFF-TDNN: A Multi-Granularity Feature Fusion TDNN Model with Depth-Wise Separable Module for Speaker Verification}, 
+      author={Ya Li and Bin Zhou and Bo Hu},
+      year={2025},
+      eprint={2505.03228},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2505.03228}, 
+}
 
 ```
